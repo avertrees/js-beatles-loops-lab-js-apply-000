@@ -17,12 +17,9 @@ function johnLennonFacts(facts){
     lennonFacts[i] = facts[i] + "!!!";
     i++;
   }
-  //for( var i = 0; i < facts.length; i++){
-  //  lennonFacts[i] = facts[i] + "!!!";
-  //}
   return lennonFacts;
 }
 
 function iLoveTheBeatles(n){
-  return 0;
+  
 }
