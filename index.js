@@ -6,7 +6,8 @@ function theBeatlesPlay(musicians, instruments){
  for (var i = 0; i<musicians.length; i++){
    beatlesPlay[i] == musicians[i] + " plays " + instruments[i] + ".";
  }
- return beatlesPlay;
+ 
+ return beatlesPlay.toString();
 }
 
 function johnLennonFacts(){
