@@ -4,11 +4,11 @@
 
 
 function theBeatlesPlay(musicians, instruments){
- var theBeatlesPlay = []
+ var beatlesPlay = []
  for (var i = 0, i<musicians.length, i++){
-   theBeatlesPlay[i] == `${musician[i]} plays ${instruments[i]}`
+   beatlesPlay[i] == `${musician[i]} plays ${instruments[i]}`
  }
- return theBeatlesPlay
+ return beatlesPlay[]
 }
 
 function johnLennonFacts(){
