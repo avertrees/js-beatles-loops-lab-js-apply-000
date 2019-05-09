@@ -4,7 +4,7 @@
 function theBeatlesPlay(musicians, instruments){
  var beatlesPlay = [];
  for (var i = 0; i<musicians.length; i++){
-   beatlesPlay[i] == musician[i] + " plays the " + instruments[i] + ".";
+   beatlesPlay[i] == musicians[i] + " plays the " + instruments[i] + ".";
  }
  return beatlesPlay;
 }
