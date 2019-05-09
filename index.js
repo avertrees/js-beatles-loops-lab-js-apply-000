@@ -25,7 +25,7 @@ function iLoveTheBeatles(n){
   var i = 0;
 
   do {
-    ilovethebeatles[i] = "I love the Beatles";
+    ilovethebeatles[i] = "I love the Beatles!";
     i++;
   } while(i<n && n < 15);
   return ilovethebeatles;
